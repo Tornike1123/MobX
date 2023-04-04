@@ -48,3 +48,5 @@ Since state should in principle always be created from some event handlers, and 
 ### autorun(()=>{})
 
 > The autorun function accepts one function that should run every time anything it observes changes. It also runs once when you create the autorun itself. It only responds to changes in observable state, things you have annotated observable or computed.
+
+![mobxstatemanagement](Slides/mobx11.jpeg)
